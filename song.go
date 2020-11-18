@@ -1,5 +1,5 @@
 package song
 
-func getSongOfTheDay() string {
+func GetSongOfTheDay() string {
 	return "lalalala"
 }
