@@ -1,5 +1,5 @@
 package song
 
 func GetSongOfTheDay() string {
-	return "PoumTchak PoumTchak !!!"
+	return "Pidaboum boum boum !"
 }
